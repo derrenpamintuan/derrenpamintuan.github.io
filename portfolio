@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Derren Pamintuan | Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    header p {
+      margin: 0.5rem 0;
+      font-size: 1.2rem;
+    }
+    nav a {
+      color: #61dafb;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h2 {
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+      color: #444;
+    }
+    .project {
+      margin-bottom: 1.5rem;
+      padding: 1rem;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .project h3 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      margin-top: 2rem;
+      background: #222;
+      color: #fff;
+    }
+    footer a {
+      color: #61dafb;
+      text-decoration: none;
+      margin: 0 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Derren Pamintuan</h1>
+    <p>Full Stack Web Developer | JavaScript • HTML5 • CSS3</p>
+    <nav>
+      <a href="https://github.com/derrenpamintuan" target="_blank">GitHub</a> |
+      <a href="https://www.linkedin.com/in/derren-pamintuan/" target="_blank">LinkedIn</a> |
+      <a href="#">Resume</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a passionate developer who thrives on learning new things and working together with
+      other developers to brainstorm exciting project ideas. What I love most about coding is
+      observing how an application takes shape gradually, step by step. Seeing how my code
+      brings real applications to life is incredibly rewarding. Take a look at my projects and
+      feel free to explore the live sites!
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Fine-Dine</h3>
+      <p>A full stack restaurant finder built with TypeScript, React, Node.js, and MongoDB.</p>
+      <a href="https://github.com/derrenpamintuan" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Holiday Travels</h3>
+      <p>Travel data dashboard using JavaScript, AJAX, and REST APIs.</p>
+      <a href="https://github.com/derrenpamintuan" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Portfolio Website</h3>
+      <p>Personal portfolio site hosted on GitHub Pages.</p>
+      <a href="https://github.com/derrenpamintuan" target="_blank">View on GitHub</a>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3</li>
+      <li>Frameworks: React, Node.js</li>
+      <li>Databases: MongoDB</li>
+      <li>Tools: Git, AJAX, REST APIs</li>
+    </ul>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <h3>Apprentice Development Technician @ Senra Systems</h3>
+    <p>Developing practical web tools and collaborating with stakeholders to deliver efficient solutions.</p>
+  </section>
+
+  <footer>
+    <p>📧 pamintuan2000@gmail.com</p>
+    <p>
+      <a href="https://github.com/derrenpamintuan" target="_blank">GitHub</a> |
+      <a href="https://www.linkedin.com/in/derren-pamintuan/" target="_blank">LinkedIn</a>
+    </p>
+  </footer>
+</body>
+</html>
