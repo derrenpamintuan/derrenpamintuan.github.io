@@ -116,15 +116,18 @@
     <ul>
       <li>Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3</li>
       <li>Frameworks: React, Node.js</li>
-      <li>Databases: MongoDB</li>
-      <li>Tools: Git, AJAX, REST APIs</li>
+      <li>Databases: PostgreSQL</li>
+      <li>Tools: Git, Docker, AJAX, REST APIs</li>
     </ul>
   </section>
 
   <section id="experience">
     <h2>Experience</h2>
-    <h3>Apprentice Development Technician @ Senra Systems</h3>
-    <p>Developing practical web tools and collaborating with stakeholders to deliver efficient solutions.</p>
+    <h3> LearningFuze</h3>
+    <p>A full-immersion web development program
+       which assigned 60+ hours a week of accelerated
+       programming (over 700+ hours) simulating a work
+       environment.</p>
   </section>
 
   <footer>
