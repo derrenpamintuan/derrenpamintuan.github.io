@@ -81,11 +81,13 @@
   <section id="about">
     <h2>About Me</h2>
     <p>
-      I'm a passionate developer who thrives on learning new things and working together with
-      other developers to brainstorm exciting project ideas. What I love most about coding is
-      observing how an application takes shape gradually, step by step. Seeing how my code
-      brings real applications to life is incredibly rewarding. Take a look at my projects and
-      feel free to explore the live sites!
+        I am a passionate developer who thrives on expanding my
+        expertise and collaborating with multidisciplinary 
+        teams to bring new ideas to life. What excites me most 
+        about coding is watching an application take shape step
+        by step, and seeing my code evolve into real, 
+        functional solutions. Explore my projects and try out 
+        the live sites!
     </p>
   </section>
 
@@ -94,14 +96,14 @@
 
     <div class="project">
       <h3>Fine-Dine</h3>
-      <p>A full stack restaurant finder built with TypeScript, React, Node.js, and MongoDB.</p>
-      <a href="https://github.com/derrenpamintuan" target="_blank">View on GitHub</a>
+      <p>A full stack restaurant finder built with JavaScript, React, Node.js, and PostgreSQL.</p>
+      <a href="https://github.com/derrenpamintuan/Fine-Dine" target="_blank">View on GitHub</a>
     </div>
 
     <div class="project">
       <h3>Holiday Travels</h3>
       <p>Travel data dashboard using JavaScript, AJAX, and REST APIs.</p>
-      <a href="https://github.com/derrenpamintuan" target="_blank">View on GitHub</a>
+      <a href="https://github.com/derrenpamintuan/ajax-project" target="_blank">View on GitHub</a>
     </div>
 
     <div class="project">
@@ -114,7 +116,7 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li>Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3</li>
+      <li>Languages: JavaScript (ES5/ES6), HTML5, CSS3</li>
       <li>Frameworks: React, Node.js</li>
       <li>Databases: PostgreSQL</li>
       <li>Tools: Git, Docker, AJAX, REST APIs</li>
@@ -134,7 +136,7 @@
     <p>📧 pamintuan2000@gmail.com</p>
     <p>
       <a href="https://github.com/derrenpamintuan" target="_blank">GitHub</a> |
-      <a href="https://www.linkedin.com/in/derren-pamintuan/" target="_blank">LinkedIn</a>
+      <a href="https://linkedin.com/in/derren-pamintuan" target="_blank">LinkedIn</a>
     </p>
   </footer>
 </body>
